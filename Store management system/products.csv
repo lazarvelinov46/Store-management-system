@@ -1,0 +1,21 @@
+categories,name,price
+roba|hrana,pivo bezalkoholno,x
+roba|pice|meso|higijena|hrana,kisela pavlaka,529.46
+pice|meso|higijena,ljuti pavlaka,207.05
+hrana|aparati,pavlaka kisela pivo,480.81
+roba|usluge|hrana|pice|higijena,sijalica,187.80
+pekara|pice|usluge|higijena,sijalica cips ljuti,224.29
+higijena|aparati,euroktrem,444.69
+higijena|usluge|pekara|hrana,gazirani sok,381.63
+pekara|hrana,gazirani slani,227.90
+aparati,cips ljuti,425.01
+hrana,sok,264.62
+hrana|aparati,slani,584.31
+pice|aparati|roba,gazirani,321.03
+usluge|roba|higijena|aparati,crni sijalica,106.29
+pice,crni euroktrem,260.53
+usluge|hrana,euroktrem,259.30
+higijena|pekara|pice,pivo,128.29
+usluge|roba|meso,pivo bezalkoholno,171.18
+hrana,slani,520.96
+hrana|pice|usluge|aparati,cips,197.63
